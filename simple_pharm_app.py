@@ -32,7 +32,7 @@ batches = fetch_items_data("batches")
 ### Web App ###
 
 # Title for the Web App
-st.title("Simple Pharma Analysis")
+st.title("Pharmaceutical Data Analysis")
 
 # Splitting the Web App into two tabs
 tab1, tab2 = st.tabs(["Overview", "Product View"])
