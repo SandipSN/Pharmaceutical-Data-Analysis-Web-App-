@@ -20,6 +20,6 @@ The Overview Tab shows the general overview of the data, whereas the Product Lev
 
 The Web App can be accessed through this link:
 
-https://simplepharma-task.streamlit.app/
+[https://simplepharma-task.streamlit.app/](https://pharma-analysis.streamlit.app/)
 
 The python file is not neccessarily run directly to view the above. Instead, it was uploaded to GitHub, where the Stramlit cloud service could pick it up and establish an accessible Web App online.
